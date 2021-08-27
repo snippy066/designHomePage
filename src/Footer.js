@@ -28,7 +28,7 @@ function Footer(){
   </div>
 
   <div class="footer-copyright text-center py-3">© Snippy066:
-    <a href=""> snippy066</a>
+    <a href="https://github.com/snippy066" style={{color:"blue"}}>snippy066</a>
   </div>
 
 
