@@ -33,9 +33,15 @@ function Content(){
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
           </dd>
         </div>
+        <div class="max-w-sm rounded overflow-hidden shadow-lg">
+    <img src=" https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="nothing" className="w-full"/>
+   
+  </div>
         
-        
-
+  <div class="max-w-sm rounded overflow-hidden shadow-lg">
+    <img src=" https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80" alt="nothing" className="w-full"/>
+   
+  </div>
         <div class="relative">
           <dt>
             <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
@@ -51,6 +57,8 @@ function Content(){
           </dd>
         </div>
 
+        
+
         <div class="relative">
           <dt>
             <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
@@ -65,6 +73,7 @@ function Content(){
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
           </dd>
         </div>
+
 
         <div class="relative">
           <dt>
@@ -85,7 +94,7 @@ function Content(){
   </div>
 </div>
 
-<img src="img/gojo1.jpg" alt="gojo" width="500" height="600"/>
+
 
         </div>
     );
