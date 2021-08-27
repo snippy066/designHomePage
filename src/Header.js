@@ -14,8 +14,8 @@ function Header(){
       </div>
       <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
         <div class="flex-shrink-0 flex items-center">
-          <img class="block lg:hidden h-8 w-auto" src="images/gojo1.jpg" alt="logo"/>
-          <img class="hidden lg:block h-8 w-auto" src="" alt="AnyBrand"/>
+          <img class="block lg:hidden h-8 w-auto" src="https://images.unsplash.com/photo-1548827752-6301e20b3be0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" alt="logo"/>
+          <img class="hidden lg:block h-8 w-auto text-white" src="" alt="AnyBrand"/>
         </div>
         <div class="hidden sm:block sm:ml-6">
           <div class="flex space-x-4">
